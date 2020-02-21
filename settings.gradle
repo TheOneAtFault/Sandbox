@@ -1,2 +1,2 @@
-include ':app', ':sandboxlibrary'
+include ':app', ':sandboxlibrary', ':transact-release'
 rootProject.name='Sandbox'
